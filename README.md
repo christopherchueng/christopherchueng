@@ -1,5 +1,6 @@
 
 # 💫 About Me:
+Pronouns: He/Him
 From high school math teacher, to dancing alongside K-pop idol group BTS, to accountant, to Software Engineer!<br>Generally, I consider myself a creator, and I have many creative outlets including, but not limited to:<br>Dance<br>Fashion<br>Mixing<br>Making videos<br>Barbering<br>Coding
 
 
