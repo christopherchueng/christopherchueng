@@ -1,11 +1,3 @@
-### Hi there 👋
-
-<!--
-**christopherchueng/christopherchueng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-![Header](./your-header-image-name.png)
 
 # 💫 About Me:
 From high school math teacher, to dancing alongside K-pop idol group BTS, to accountant, to Software Engineer!<br>Generally, I consider myself a creator, and I have many creative outlets including, but not limited to:<br>Dance<br>Fashion<br>Mixing<br>Making videos<br>Barbering<br>Coding
